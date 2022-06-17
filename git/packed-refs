@@ -1,0 +1,6 @@
+# pack-refs with: peeled fully-peeled sorted 
+a2ba28a51889c6d4a094ae5bde199e468e424327 refs/remotes/origin/dependabot/pip/pillow-9.0.1
+c94d737274e618b76f37a637b6cb9a72f18a9aed refs/remotes/origin/master
+67fd7eb4af07df738f90b6908a333bf9a295e200 refs/tags/2.0.1
+48bad5a20f097d0555e4de50d8d79d76da83ea10 refs/tags/v1.0.0
+5701d50cbce49d55b37f10a58c518c37c425b224 refs/tags/v2.0.2
